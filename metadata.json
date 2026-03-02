@@ -1,0 +1,5 @@
+{
+  "name": "GlucoScan",
+  "description": "A metabolic intelligence app for tracking glucose levels, meal impacts, and metabolic health insights.",
+  "requestFramePermissions": []
+}
